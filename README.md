@@ -5,7 +5,7 @@ I'm Jesse, a beginner Python developer from Siberia.
 ## My goals
 - Learn Python
 - Build cool projects
-- Move to Seattle and work in IT
+- Move to Minneapolis and work in IT
 - Make my future family proud
 
 ## Currently learning
